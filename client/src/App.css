@@ -1,3 +1,24 @@
 .App {
 	margin: 0 auto;
+	font-family: 'Inter';
+}
+
+nav {
+	display: flex;
+	justify-content: center;
+    align-items: center;
+	height: 55px;
+	background-color: #F55A5A;
+}
+
+nav img {
+	width: 24px;
+	height: 24px;
+	margin: 0 7px;
+}
+
+nav div {
+	font-size: 14px;
+	color: #FFFFFF;
+	letter-spacing: -0.075em;
 }

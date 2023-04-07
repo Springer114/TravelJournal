@@ -13,7 +13,7 @@ export default [
         photo: "sydney-opera-house.png",
         country: "Australia",
         location: "Sydney Opera House",
-        geoLoc: "https://www.google.com/maps/place/Mount+Fuji/@35.3606422,138.7186086,15z/data=!4m6!3m5!1s0x6019629a42fdc899:0xa6a1fcc916f3a4df!8m2!3d35.3606255!4d138.7273634!16zL20vMGNrczA",
+        geoLoc: "https://www.google.com/maps/place/Sydney+Opera+House/@-33.8567799,151.2131027,17z/data=!3m2!4b1!5s0x6b12ae67d234a27f:0xd6d4e9380ca1e32f!4m6!3m5!1s0x6b12ae665e892fdd:0x3133f8d75a1ac251!8m2!3d-33.8567844!4d151.2152967!16zL20vMDZfbm0",
         dateVisited: "27 May, 2021 - 8 Jun, 2021",
         description: "The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of the Sydney Harbour, it is often regarded as one of the 20th century's most famous and distinctive buildings"
     },
